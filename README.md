@@ -1,5 +1,3 @@
-# Drupal documentation
-
 ## Infrastructure
 
 ### [Composer repository](https://github.com/City-of-Helsinki/drupal-repository)
