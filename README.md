@@ -56,39 +56,39 @@ See https://helsinkisolutionoffice.atlassian.net/wiki/spaces/HEL/pages/771001555
 
 ### [Asuminen](https://github.com/City-of-Helsinki/drupal-helfi-asuminen)
 
-`@todo` fill short description
+Tietoa asumisesta ja asumisen erilaisista vaihtoehdoista Helsingissä
 
 ### [Etusivu](https://github.com/City-of-Helsinki/drupal-helfi-etusivu)
 
-`@todo` fill short description
+Etusivu-instanssin pääsisältöä on uutiset josta ne jaetaan integraation yli (feedit) muille instansseille kuratoituina listoina
 
 ### [Työ ja yrittäminen](https://github.com/City-of-Helsinki/drupal-helfi-tyo-yrittaminen)
 
-`@todo` fill short description
+Business Helsingin palvelut helsinkiläisille yrityksille, yrittäjille, työnantajille ja työnhakijoille sekä tietoja yrittämiseen liittyvistä lupa-asioista.
 
 ### [Kasvatus ja koulutus](https://github.com/City-of-Helsinki/drupal-helfi-kasvatus-koulutus)
 
-`@todo` fill short description
+Tietoa kaupungin tarjoamista varhaiskasvatuksen, esiopetuksen, perusopetuksen, lukioiden ja ammatillisen koulutuksen sekä työväenopistojen palveluista
 
 ### [Kulttuuri ja vapaa-aika / KuVA](https://github.com/City-of-Helsinki/drupal-helfi-kuva)
 
-`@todo` fill short description
+Kulttuuria ja vapaa-ajan toimintaa kaikille: vuodessa yli 20 miljoonaa kokemusta - taidetta, tapahtumia, kursseja, harrastuksia, tiloja, ulkoilualueita ja palveluja liikkumiseen sekä tukea avustuksina
 
 ### [Kaupunkiympäristö ja liikenne / KYMP](https://github.com/City-of-Helsinki/drupal-helfi-kymp)
 
-`@todo` fill short description
+Tietoa Helsingin suunnittelusta, rakentamisesta ja kunnossapidosta. Löydät täältä tietoa myös pysäköinnistä ja pyöräilystä
 
 ### [Avoimet tyopaikat / Rekry](https://github.com/City-of-Helsinki/drupal-helfi-rekry)
 
-`@todo` fill short description
+Tietoa kaupungin tarjoamista avoimista työpaikoista sekä tietoa kaupungista työnantajana
 
 ### [Sosiaali ja terveyspalvelut / SOTE](https://github.com/City-of-Helsinki/drupal-helfi-sote)
 
-`@todo` fill short description
+Tietoa kaupungin tarjoamista sosiaali- ja terveyspalveluista
 
 ### [Päätöksenteko ja hallinto / STRATEGIA](https://github.com/City-of-Helsinki/drupal-helfi-strategia)
 
-`@todo` fill short description
+Tietoa Helsingin kaupungin päätöksenteosta, organisaatiosta ja kaupungin strategiasta ja taloudesta. Löydät myös tietoa osallistumisen ja vaikuttamisen mahdollisuuksista, kaupungin varattavista tiloista ja avustuksista sekä Helsingistä kaupunkina
 
 ### [Demo project](https://github.com/City-of-Helsinki/drupal-helfi-platform-test)
 
@@ -108,6 +108,10 @@ HDBT Admin theme is an admin theme for the City of Helsinki. It is based on the 
 the words Helsinki Drupal Base Theme. Style follows the [BEM methodology](http://getbem.com/) and javascript is written
 as ES6. The JS and SCSS files are compiled and minified with webpack.
 
+### [Helsinki Drupal Base Theme - Subtheme / HDBT subtheme](https://github.com/City-of-Helsinki/drupal-helfi-platform/tree/main/public/themes/custom/hdbt_subtheme)
+
+HDBT Subtheme is a so called "starterkit" which you can start using by enabling it in `/admin/appearance`. It's based on the HDBT theme and it's 
+only distributed via the [drupal-helfi-platform](https://github.com/City-of-Helsinki/drupal-helfi-platform)
 ## Tools
 
 ### [Drupal tools](https://github.com/City-of-Helsinki/drupal-tools)
