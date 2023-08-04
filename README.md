@@ -108,6 +108,12 @@ HDBT Admin theme is an admin theme for the City of Helsinki. It is based on the 
 the words Helsinki Drupal Base Theme. Style follows the [BEM methodology](http://getbem.com/) and javascript is written
 as ES6. The JS and SCSS files are compiled and minified with webpack.
 
+## Testing
+
+### [Robot-framework tests](https://github.com/City-of-Helsinki/helfi-test-automation-python)
+
+Automated tests done using Robot-framework. The readme has framework installation and running instructions. 
+
 ## Tools
 
 ### [Drupal tools](https://github.com/City-of-Helsinki/drupal-tools)
