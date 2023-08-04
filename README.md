@@ -112,7 +112,8 @@ as ES6. The JS and SCSS files are compiled and minified with webpack.
 
 ### [Robot-framework tests](https://github.com/City-of-Helsinki/helfi-test-automation-python)
 
-Automated tests done using Robot-framework. The readme has framework installation and running instructions. 
+NOTICE: Currently this part of the project is unusable since it has a dependency to helfi_example_content module that is no longer available.
+Automated tests done using Robot-framework. The readme has framework installation and running instructions.
 
 ## Tools
 
