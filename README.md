@@ -60,7 +60,7 @@ See https://helsinkisolutionoffice.atlassian.net/wiki/spaces/HEL/pages/771001555
 
 ### [Etusivu](https://github.com/City-of-Helsinki/drupal-helfi-etusivu)
 
-`@todo` fill short description
+Etusivu is the front page of the hel.fi project, featuring elements like the global menu, news, and articles, which are also used on other pages. Additionally, Etusivu offers alternative language options not available on other instances.
 
 ### [Työ ja yrittäminen](https://github.com/City-of-Helsinki/drupal-helfi-tyo-yrittaminen)
 
