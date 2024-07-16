@@ -80,7 +80,7 @@ Etusivu is the front page of the hel.fi project, featuring elements like the glo
 
 ### [Avoimet tyopaikat / Rekry](https://github.com/City-of-Helsinki/drupal-helfi-rekry)
 
-`@todo` fill short description
+Avoimet työpaikat, also called Rekry, is a site integrated with Helbit. It migrates job listings to the job search found on the site and provides other recruitment information for the city of Helsinki.
 
 ### [Sosiaali ja terveyspalvelut / SOTE](https://github.com/City-of-Helsinki/drupal-helfi-sote)
 
