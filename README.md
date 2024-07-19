@@ -68,7 +68,7 @@ Etusivu is the front page of the hel.fi project, featuring elements like the glo
 
 ### [Kasvatus ja koulutus](https://github.com/City-of-Helsinki/drupal-helfi-kasvatus-koulutus)
 
-KASKO, short for kasvatus ja koulutus, is the site for the department responsible for childhood and education in the city of Helsinki. The site includes multiple unit searches and a bit complex system built using the Group contrib module for upper secondary schools. Additionally, it is the only core instance, aside from the Etusivu instance, that has the News feature enabled.
+KASKO, short for kasvatus ja koulutus, is the site for the department responsible for childhood and education in the city of Helsinki. The site includes multiple unit searches and a bit complex system built using the Group contrib module for upper secondary schools. Additionally, this  instance has the News feature enabled and used for upper secondary schools.
 
 ### [Kulttuuri ja vapaa-aika / KuVA](https://github.com/City-of-Helsinki/drupal-helfi-kuva)
 
