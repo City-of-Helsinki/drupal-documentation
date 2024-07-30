@@ -64,7 +64,7 @@ Etusivu is the front page of the hel.fi project, featuring elements like the glo
 
 ### [Työ ja yrittäminen](https://github.com/City-of-Helsinki/drupal-helfi-tyo-yrittaminen)
 
-`@todo` fill short description
+ELO (Yritykset ja työ, formerly known as Työ ja yrittäminen) covers topics related to work and entrepreneurship.
 
 ### [Kasvatus ja koulutus](https://github.com/City-of-Helsinki/drupal-helfi-kasvatus-koulutus)
 
