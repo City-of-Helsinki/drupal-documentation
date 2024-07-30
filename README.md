@@ -88,7 +88,9 @@ Avoimet työpaikat, also called Rekry, is a site integrated with Helbit. It migr
 
 ### [Päätöksenteko ja hallinto / STRATEGIA](https://github.com/City-of-Helsinki/drupal-helfi-strategia)
 
-`@todo` fill short description
+The Päätöksenteko ja hallinto site has had many names and might still be referred to as Strategia ja talous or simply
+Strategia in some places. This site contains information about decision-making and administration in the city of
+Helsinki.
 
 ### [Demo project](https://github.com/City-of-Helsinki/drupal-helfi-platform-test)
 
