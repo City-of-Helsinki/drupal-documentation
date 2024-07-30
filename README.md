@@ -72,7 +72,7 @@ KASKO, short for kasvatus ja koulutus, is the site for the department responsibl
 
 ### [Kulttuuri ja vapaa-aika / KuVA](https://github.com/City-of-Helsinki/drupal-helfi-kuva)
 
-`@todo` fill short description
+KUVA, short for Kulttuuri ja vapaa-aika, provides information about cultural and leisure activities in the city of Helsinki.
 
 ### [Kaupunkiympäristö ja liikenne / KYMP](https://github.com/City-of-Helsinki/drupal-helfi-kymp)
 
