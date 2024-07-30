@@ -62,21 +62,22 @@ The Asuminen instance provides information related to living accommodations in H
 
 Etusivu is the front page of the hel.fi project, featuring elements like the global menu, news, and articles, which are also used on other pages. Additionally, Etusivu offers alternative language options not available on other instances.
 
-### [Työ ja yrittäminen](https://github.com/City-of-Helsinki/drupal-helfi-tyo-yrittaminen)
+### [Työ ja yrittäminen / ELO](https://github.com/City-of-Helsinki/drupal-helfi-tyo-yrittaminen)
 
 ELO (Yritykset ja työ, formerly known as Työ ja yrittäminen) covers topics related to work and entrepreneurship.
 
-### [Kasvatus ja koulutus](https://github.com/City-of-Helsinki/drupal-helfi-kasvatus-koulutus)
+### [Kasvatus ja koulutus / KASKO](https://github.com/City-of-Helsinki/drupal-helfi-kasvatus-koulutus)
 
 KASKO, short for kasvatus ja koulutus, is the site for the department responsible for childhood and education in the city of Helsinki. The site includes multiple unit searches and a bit complex system built using the Group contrib module for upper secondary schools. Additionally, this  instance has the News feature enabled and used for upper secondary schools.
 
-### [Kulttuuri ja vapaa-aika / KuVA](https://github.com/City-of-Helsinki/drupal-helfi-kuva)
+### [Kulttuuri ja vapaa-aika / KUVA](https://github.com/City-of-Helsinki/drupal-helfi-kuva)
 
 KUVA, short for Kulttuuri ja vapaa-aika, provides information about cultural and leisure activities in the city of Helsinki.
 
 ### [Kaupunkiympäristö ja liikenne / KYMP](https://github.com/City-of-Helsinki/drupal-helfi-kymp)
 
-`@todo` fill short description
+KYMP, short for Kaupunkiympäristö ja liikenne, is a site that contains information about the city, its development, and
+transportation.
 
 ### [Avoimet tyopaikat / Rekry](https://github.com/City-of-Helsinki/drupal-helfi-rekry)
 
