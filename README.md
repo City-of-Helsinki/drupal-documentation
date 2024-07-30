@@ -56,7 +56,7 @@ See https://helsinkisolutionoffice.atlassian.net/wiki/spaces/HEL/pages/771001555
 
 ### [Asuminen](https://github.com/City-of-Helsinki/drupal-helfi-asuminen)
 
-`@todo` fill short description
+The Asuminen instance provides information related to living accommodations in Helsinki.
 
 ### [Etusivu](https://github.com/City-of-Helsinki/drupal-helfi-etusivu)
 
