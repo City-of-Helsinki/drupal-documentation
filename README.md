@@ -76,8 +76,8 @@ KUVA, short for Kulttuuri ja vapaa-aika, provides information about cultural and
 
 ### [Kaupunkiympäristö ja liikenne / KYMP](https://github.com/City-of-Helsinki/drupal-helfi-kymp)
 
-KYMP, short for Kaupunkiympäristö ja liikenne, is a site that contains information about the city, its development, and
-transportation.
+KYMP, short for Kaupunkiympäristö ja liikenne, also formerly known only as Liikenne is a site that contains information
+about the city, its development, and transportation.
 
 ### [Avoimet tyopaikat / Rekry](https://github.com/City-of-Helsinki/drupal-helfi-rekry)
 
