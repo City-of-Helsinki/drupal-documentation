@@ -85,7 +85,8 @@ Avoimet työpaikat, also called Rekry, is a site integrated with Helbit. It migr
 
 ### [Sosiaali ja terveyspalvelut / SOTE](https://github.com/City-of-Helsinki/drupal-helfi-sote)
 
-`@todo` fill short description
+SOTE, short for Sosiaali- ja terveyspalvelut, is a site providing information about the health and social services in 
+the city of Helsinki. The project is sometimes referred to simply as Terveys.
 
 ### [Päätöksenteko ja hallinto / STRATEGIA](https://github.com/City-of-Helsinki/drupal-helfi-strategia)
 
